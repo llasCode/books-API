@@ -6,12 +6,6 @@ Books API developed with TypeScript, Express and mySQL that allows the user the 
 5. get all the books by author
 6. get all the books by genre
 
-Dependencies:
-1. express
-2. dotenv
-3. bodyparser
-4. mysql2
-
 Start:
 ```
 npm run start
